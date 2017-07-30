@@ -1,0 +1,16 @@
+Sheila Robles
+July 31, 2016
+
+Sudoku Problem:
+
+I had a very difficult time understanding backtracking even with heavy loads of reasearching. 
+I have been stumped on this problem since it was assigned. I have attached what I worked for 
+(hopefully) partial credit. 
+
+For the sudoku problem, it is very clear that there needs to be some recursive backtracking element. When
+given a simple problem, the agent should be able to solve it with minimal, or without backtracking. However,
+there are times in sudoku where one has to guess, and will not know if their guesses are correct until
+a few steps later. This is why backtracking is necessary for this problem. 
+
+I was able to get all the necessary information for the sudoku puzzle and display it formatted, however,
+was not able to effectively search through the puzzle and attempt solutions. Attached is my non-working code.
